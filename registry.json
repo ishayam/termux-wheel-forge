@@ -52,6 +52,19 @@
       "built_at": "2026-10-05T13:18:45Z",
       "created_at": "2026-10-05T13:18:45Z",
       "run_id": 37315434264
+    },
+    {
+      "id": "py3.14-tree-sitter-rust-0.24.2",
+      "pkg": "tree-sitter-rust",
+      "ver": "0.24.2",
+      "py_requested": "3.14",
+      "py_actual": "3.14.6",
+      "wheel": "tree_sitter_rust-0.24.2-cp39-abi3-android_24_arm64_v8a.whl",
+      "layout_path": "py3.14/tree-sitter-rust/0.24.2/",
+      "download_url": "https://github.com/ishayam/termux-wheel-forge/releases/download/wheel/py3.14/tree-sitter-rust/0.24.2/tree_sitter_rust-0.24.2-cp39-abi3-android_24_arm64_v8a.whl",
+      "built_at": "2026-10-05T13:22:38Z",
+      "created_at": "2026-10-05T13:22:38Z",
+      "run_id": 37315960686
     }
   ]
 }
