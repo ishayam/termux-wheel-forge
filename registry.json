@@ -104,6 +104,19 @@
       "built_at": "2026-10-05T13:41:12Z",
       "created_at": "2026-10-05T13:41:12Z",
       "run_id": 37318381255
+    },
+    {
+      "id": "py3.14-tree-sitter-lua-0.5.0",
+      "pkg": "tree-sitter-lua",
+      "ver": "0.5.0",
+      "py_requested": "3.14",
+      "py_actual": "3.14.6",
+      "wheel": "tree_sitter_lua-0.5.0-cp310-abi3-android_24_arm64_v8a.whl",
+      "layout_path": "py3.14/tree-sitter-lua/0.5.0/",
+      "download_url": "https://github.com/ishayam/termux-wheel-forge/releases/download/wheel/py3.14/tree-sitter-lua/0.5.0/tree_sitter_lua-0.5.0-cp310-abi3-android_24_arm64_v8a.whl",
+      "built_at": "2026-10-05T13:46:02Z",
+      "created_at": "2026-10-05T13:46:02Z",
+      "run_id": 37318942796
     }
   ]
 }
