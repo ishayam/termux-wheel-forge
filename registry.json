@@ -39,6 +39,19 @@
       "built_at": "2026-10-05T13:12:02Z",
       "created_at": "2026-10-05T13:12:02Z",
       "run_id": 37314267367
+    },
+    {
+      "id": "py3.14-tree-sitter-php-0.23.11",
+      "pkg": "tree-sitter-php",
+      "ver": "0.23.11",
+      "py_requested": "3.14",
+      "py_actual": "3.14.6",
+      "wheel": "tree_sitter_php-0.23.11-cp39-abi3-android_24_arm64_v8a.whl",
+      "layout_path": "py3.14/tree-sitter-php/0.23.11/",
+      "download_url": "https://github.com/ishayam/termux-wheel-forge/releases/download/wheel/py3.14/tree-sitter-php/0.23.11/tree_sitter_php-0.23.11-cp39-abi3-android_24_arm64_v8a.whl",
+      "built_at": "2026-10-05T13:18:45Z",
+      "created_at": "2026-10-05T13:18:45Z",
+      "run_id": 37315434264
     }
   ]
 }
